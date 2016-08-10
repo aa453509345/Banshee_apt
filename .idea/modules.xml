@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Banshee.iml" filepath="$PROJECT_DIR$/Banshee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bansheeannotion/bansheeannotion.iml" filepath="$PROJECT_DIR$/bansheeannotion/bansheeannotion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bansheeview/bansheeview.iml" filepath="$PROJECT_DIR$/bansheeview/bansheeview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bansheeviewcompiler/bansheeviewcompiler.iml" filepath="$PROJECT_DIR$/bansheeviewcompiler/bansheeviewcompiler.iml" />
+    </modules>
+  </component>
+</project>
